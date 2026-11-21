@@ -6,3 +6,11 @@ __pycache__/
 .idea/
 .pre-commit-config.yaml
 poetry.lock~
+.env
+.env.*
+*.session
+*.session-*
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.coverage
